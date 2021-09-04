@@ -1,6 +1,6 @@
 Password Generator
 
-A web page used to generate automatic and secure passwords,only select the requirements of yours for generating the password  
+A web page used to generate automatic and secure passwords,only select the **requirements** of yours for generating the password.  
 
 Requirements -
 
